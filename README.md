@@ -1,7 +1,9 @@
 ![image](logo.jpg)
-# Multi-Omics MIX
+# Multi-Omics MIX on Computerome
 
 [![DOI](https://zenodo.org/badge/188984604.svg)](https://zenodo.org/badge/latestdoi/188984604)
+
+I am adapting Momix to a [Computerome](https://www.computerome.dk/) version
 
 ## Benchmark of multi-omics joint Dimensionality Reduction (jDR) approaches in cancer study
 
